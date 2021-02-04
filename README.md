@@ -7,8 +7,8 @@ Jupiter Notebook files:
 
 * VacationPy\VacationPy.ipynb (file that takes in weather data and plots ideal vacation locations on a gmap with local hotel reference)
 
-**_Place run through cells in WeatherPy in sequence followd by VacationPy_**
+**_Please run through cells in WeatherPy in sequence followd by VacationPy_**
 
 API Keys required (placed locally in Config.py file):
  openweathermap.org
- Google Places 
+ Google Places API
