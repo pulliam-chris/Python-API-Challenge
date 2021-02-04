@@ -10,5 +10,6 @@ Jupiter Notebook files:
 **_Please run through cells in WeatherPy in sequence followed by VacationPy_**
 
 API Keys required (placed locally in Config.py file):
- openweathermap.org
- Google Places API
+ * openweathermap.org
+ 
+ * Google Places API
